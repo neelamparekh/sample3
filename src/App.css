@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -13,6 +14,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,6 +25,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+/* .App-div,table{
+  font-size: medium;
+  font: outline;
+text-align: center;
+border-style: solid;
+border-spacing: 2px;
+border-color: black;
+border-width: 4px;
+
+} */
 
 .App-link {
   color: #61dafb;
